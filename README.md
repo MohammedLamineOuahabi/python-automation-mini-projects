@@ -1,2 +1,2 @@
-# python-automation-mini-projects
-useful Python scripts for the boring tasks 
+# python automation mini-projects
+useful Python scripts to handle the boring tasks .
